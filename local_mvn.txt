@@ -1,0 +1,32 @@
+mvn install:install-file -DgroupId=com.fusioncharts.exporter -DartifactId=fcexporter -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\fcexporter.jar
+
+mvn install:install-file -DgroupId=com.fusioncharts.exporter -DartifactId=fcexporthandler -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\fcexporthandler.jar
+
+mvn install:install-file -DgroupId=com.fusioncharts -DartifactId=fchelper -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\fchelper.jar
+
+mvn install:install-file -DgroupId=com.fusioncharts -DartifactId=fcsampleshelper -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\fcsampleshelper.jar
+
+mvn install:install-file -DgroupId=com.fusioncharts -DartifactId=fctl -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\fctl.jar
+
+mvn install:install-file -DgroupId=org.codehaus.jackson -DartifactId=jackson-all -Dversion=1.7.6 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\jackson-all-1.7.6.jar
+
+mvn install:install-file -DgroupId=org.java_websocket -DartifactId=java_websocket -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\java_websocket.jar
+
+mvn install:install-file -DgroupId=javax.xml.rpc -DartifactId=jaxrpc -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\jaxrpc.jar
+
+mvn install:install-file -DgroupId=cn.jpush -DartifactId=jpush -Dversion=2.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\jpush-java-libraryV2.jar
+
+mvn install:install-file -DgroupId=javax.mail -DartifactId=mail -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\mail.jar
+
+mvn install:install-file -DgroupId=oracle.jdbc -DartifactId=ojdbc -Dversion=6.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\ojdbc6.jar
+
+mvn install:install-file -DgroupId=jp.sourceforge.qrcode -DartifactId=QRCode -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\QRCode.jar
+
+mvn install:install-file -DgroupId=javax.xml.soap -DartifactId=saaj -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\saaj.jar
+
+
+mvn install:install-file -DgroupId=javax.servlet -DartifactId=servlet-api -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\servlet-api.jar
+
+mvn install:install-file -DgroupId=sun.misc.BASE64Decoder -DartifactId=Decoder -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\sun.misc.BASE64Decoder.jar
+
+mvn install:install-file -DgroupId=ueditor -DartifactId=ueditor -Dversion=1.0 -Dpackaging=jar -Dfile=C:\workspace\code\proc_nm_chonggou\code\WebRoot\WEB-INF\lib\ueditor.jar
